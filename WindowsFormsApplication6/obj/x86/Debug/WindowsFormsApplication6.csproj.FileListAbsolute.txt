@@ -1,0 +1,14 @@
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form2.resources
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form3.resources
+C:\Users\vsp\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\vsp\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form5.resources
+C:\Users\vsp\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form6.resources
+C:\Users\vsp\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form7.resources
+C:\Users\vsp\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form8.resources

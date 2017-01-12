@@ -1,0 +1,7 @@
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\bank_details.Form1.resources
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\bank_details.Form2.resources
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\bank_details.Form3.resources
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\bank_details.csproj.GenerateResource.Cache
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+c:\users\vsp\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
